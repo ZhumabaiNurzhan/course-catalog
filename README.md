@@ -22,4 +22,4 @@ This project is a semester course catalog application built as part of the "Adva
 ## 💻 Getting Started
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/course-catalog.git](https://github.com/your-username/course-catalog.git)
+   git clone [https://github.com/ZhumabaiNurzhan/course-catalog.git](https://github.com/ZhumabaiNurzhan/course-catalog.git) 
